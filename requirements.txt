@@ -5,5 +5,5 @@ matplotlib
 scikit-learn
 xgboost
 joblib
-shap
-tensorflow
+shap==0.44.1
+tensorflow==2.13.0
